@@ -1,4 +1,4 @@
-# WIX1002 - Viva 1
+# WIX1002 - Viva 2
 
 ## Group Name: XXX
 ### Member 1: XXX  (matricNum)
@@ -7,7 +7,7 @@
 ### Member 4: XXX  (matricNum)
 ### Member 5: XXX  (matricNum)
 
-## Viva 1: Flow Control
+## Viva 2: Methods
 WIX1002: FOP | Sem 1 2025/26
 
 ### INSTRUCTIONS:
